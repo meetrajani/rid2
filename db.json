@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "title": "krish",
+      "author": "rajani",
+      "id": 4
+    },
+    {
+      "title": "meet",
+      "author": "rajani",
+      "id": 5
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
